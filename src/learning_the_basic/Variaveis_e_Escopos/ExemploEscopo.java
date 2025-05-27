@@ -1,4 +1,4 @@
-package Variaveis_e_Escopos;
+package learning_the_basic.Variaveis_e_Escopos;
 
 public class ExemploEscopo {
 

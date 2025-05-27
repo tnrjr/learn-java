@@ -1,4 +1,4 @@
-package tipos_dados_e_variaveis;
+package learning_the_basic.tipos_dados_e_variaveis;
 
 public class DeclaracaoVariaveis {
     public static void main(String[] args) {

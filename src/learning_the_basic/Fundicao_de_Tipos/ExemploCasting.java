@@ -1,4 +1,4 @@
-package Fundicao_de_Tipos;
+package learning_the_basic.Fundicao_de_Tipos;
 
 class Animal {}
 class Cachorro extends Animal {}

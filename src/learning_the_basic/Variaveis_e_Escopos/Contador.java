@@ -1,4 +1,4 @@
-package Variaveis_e_Escopos;
+package learning_the_basic.Variaveis_e_Escopos;
 
 //C. Variáveis de Classe (estáticas)
 //Declaradas com o modificador static.

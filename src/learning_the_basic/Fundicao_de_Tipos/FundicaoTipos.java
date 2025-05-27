@@ -1,4 +1,4 @@
-package Fundicao_de_Tipos;
+package learning_the_basic.Fundicao_de_Tipos;
 
 public class FundicaoTipos {
     public static void main(String[] args) {

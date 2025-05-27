@@ -1,4 +1,4 @@
-package basic_sintax;
+package learning_the_basic.basic_sintax;
 
 public class BasicSintax {
     public static void main(String[] args) {

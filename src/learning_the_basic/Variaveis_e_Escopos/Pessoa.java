@@ -1,4 +1,4 @@
-package Variaveis_e_Escopos;
+package learning_the_basic.Variaveis_e_Escopos;
 
 //    B. Variáveis de Instância (atributos de objeto)
 //    Declaradas fora dos métodos, mas dentro da classe.
